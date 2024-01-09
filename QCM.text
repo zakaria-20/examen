@@ -1,0 +1,32 @@
+1. What does Node.js primarily use the V8 JavaScript engine for?
+a-Compiling JavaScript to machine code
+3. Which of the following best describes an API?
+- c) An interface for software interaction
+4. What is NPM in the context of Node.js?
+- a) A JavaScript runtime
+- c) A package manager
+5. What does the `listen` method do in an Express.js application?
+- c) Starts a server on a specified port
+6. Which HTTP method is idempotent and used to update resources in a RESTful API?
+- c) PUT
+7. How does the Node.js event loop handle asynchronous operations?
+- c) Using a call stack and a callback queue
+8. What is middleware in the context of Express.js?
+- b) Functions executed sequentially during the request-response cycle
+9. In MongoDB, what is a 'document'?
+- b) A data record in a collection, similar in format to JSON
+10. What is an advantage of using asynchronous code in Node.js?
+- a) It makes code execution faster
+- d) It eliminates the need for callbacks
+11. In Express.js, what is the purpose of the `next` function in error-handling middleware?
+- c) To forward an error to the next error-handling middleware
+12. How does the `express.Router` class enhance the modularity of an application?
+- c) By integrating third-party APIs
+13. What does the term "non-blocking I/O" in Node.js refer to?
+
+14. When using MongoDB with Node.js, what role does Mongoose play?
+- c) It is a schema-based ODM for MongoDB
+- d) It enhances the performance of MongoDB operations
+19. What is the significance of JWT in building secure web applications?
+- b) It provides a mechanism for secure data transmission between client and server
+20. In MongoDB, what is the purpose of using an index?
